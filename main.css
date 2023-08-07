@@ -35,7 +35,7 @@ body {
   align-items: center;
 }
 .score-count {
-  font-size: 3vmin;
+  font-size: 22px;
   color: #d21855;
   font-weight: bold;
 }
